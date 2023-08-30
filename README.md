@@ -1,0 +1,6 @@
+# Star_Wars
+¿Que es lo que hace su codigo?
+este es uno de mis proyectos aprendiendo python en el cual el jugador debe esquivar dos tipos de obstaculos...
+
+¿Como lo hisite? y lenguajes utilizados
+utilize el lenguaje de programacion python, y la libreria pygame...
